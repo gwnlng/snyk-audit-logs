@@ -33,7 +33,7 @@ To extract to `snyk_audit_log.json`, use command:
 ```bash
 python main.py "<ORG_ID>" "https://api.au.snyk.io/rest"
 ```
-#### Custom date range using Optional parameters
+#### Custom date range using Optional parameters (YYYY-MM-DD)
 ```bash
 python main.py --from-date-param "2024-04-02" --to-date-param "2024-04-03" "<ORG_ID>" "https://api.au.snyk.io/rest"
 ```
