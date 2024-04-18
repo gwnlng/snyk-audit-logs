@@ -7,7 +7,8 @@ This script extracts org-scoped Audit Logs data from Snyk Audit Logs REST API en
 
 ### **Note**
 
-:exclamation: Not for Production deployment use.
+:exclamation: Not for Production deployment use.  
+
 :memo: Set your environment variable SNYK_TOKEN
 
 ### Command-line Parameters
